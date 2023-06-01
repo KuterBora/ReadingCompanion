@@ -1,0 +1,27 @@
+{
+    "cover": "./data/tobs.jpg",
+    "characters": [
+        {
+            "description": "Efendi",
+            "chapterSeen": 31,
+            "charName": "Efe"
+        },
+        {
+            "description": "Trap",
+            "chapterSeen": 13,
+            "charName": "Nil"
+        }
+    ],
+    "name": "Efe Kitabı",
+    "numChapters": 1,
+    "locations": [{
+        "name": "Burringham",
+        "description": "kuşşşş",
+        "chapterSeen": 1
+    }],
+    "currentChapter": 31,
+    "plots": [{
+        "description": "efe kargaya oturdu",
+        "chapterSeen": 3
+    }]
+}

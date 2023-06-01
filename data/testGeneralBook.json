@@ -1,0 +1,40 @@
+{
+    "cover": "./data/The_Fellowship_of_the_Ring_cover.gif",
+    "characters": [
+        {
+            "description": "A hobbit from the Shire.",
+            "chapterSeen": 1,
+            "charName": "Frodo"
+        },
+        {
+            "description": "A merry fellow.",
+            "chapterSeen": 6,
+            "charName": "Tom Bombadil"
+        }
+    ],
+    "name": "The Lord of the Rings",
+    "numChapters": 22,
+    "locations": [
+        {
+            "name": "Shire",
+            "description": "The home of the hobbits.",
+            "chapterSeen": 1
+        },
+        {
+            "name": "Old Forest",
+            "description": "The ancient forest where Tom Bombadil dewlls.",
+            "chapterSeen": 6
+        }
+    ],
+    "currentChapter": 1,
+    "plots": [
+        {
+            "description": "Bilbo hosts a birthday party.",
+            "chapterSeen": 1
+        },
+        {
+            "description": "Tom Bombadil saves the hobbits from the Willowman.",
+            "chapterSeen": 6
+        }
+    ]
+}
